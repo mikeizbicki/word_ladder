@@ -16,7 +16,7 @@ The world ladder problem is an example of a problem that leetcode puts in their 
 What makes these problems "hard" is figuring out the right pseudocode.
 Translating from pseudocode into working code is considered "easy".
 
-In this assignment, we will practice the translation of pseudocode into working python code.
+IIn this assignment, we will practice the translation of pseudocode into working python code.
 If you want to learn more about how to create the pseudocode in the first place,
 then you should take CSCI148: Graph Algorithms with Prof Sarah Cannon.
 

@@ -6,7 +6,7 @@ import copy
 
 def word_ladder(start_word, end_word, dictionary_file='words5.dict'):
     '''
-    Returns a list satisfying the following properties:
+   1 Returns a list satisfying the following properties:
 
     1. the first element is `start_word`
     2. the last element is `end_word`

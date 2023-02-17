@@ -27,6 +27,9 @@ def word_ladder(start_word, end_word, dictionary_file='words5.dict'):
 
     Whenever it is impossible to generate a word ladder between the two words,
     the function returns `None`.
+
+    HINT:
+    See <https://github.com/mikeizbicki/cmc-csci046/issues/472> for a discussion about a common memory management bug that causes the generated word ladders to be too long in some cases.
     '''
 
 

@@ -7,6 +7,9 @@ def test___adjacent_1():
 def test___adjacent_1b():
     assert not _adjacent('money','stone')
 
+def test___adjacent_1c():
+    assert not _adjacent('fable','flake')
+
 def test___adjacent_2():
     assert not _adjacent('stone','stone1')
 

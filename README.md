@@ -85,7 +85,7 @@ Complete the following tasks:
 1. Implement the `word_ladder`, `verify_word_ladder`, and `_adjacent` functions so that all test cases in `tests/test_main.py` pass
 
 If all test cases pass, you will get full credit.
-If not all test cases pass, you will lose -4 points for the first failing test case and -1 points for each additional failing test case.
+If not all test cases pass, you will lose -4 points for the first failing test case and -2 points for each additional failing test case.
 
 ## Submission
 

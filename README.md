@@ -89,4 +89,4 @@ If not all test cases pass, you will lose -4 points for the first failing test c
 
 ## Submission
 
-Submit the link to your forked repository on sakai.
+Submit the link to your forked repository on canvas.

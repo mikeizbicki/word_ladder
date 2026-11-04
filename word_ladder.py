@@ -1,3 +1,4 @@
+# This code is funny
 #!/bin/python3
 
 
